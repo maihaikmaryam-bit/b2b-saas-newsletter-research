@@ -1,0 +1,7 @@
+Expert: Matt McGarry
+Source: YouTube Video Transcript Excerpt
+Topic: How to Scale a B2B Newsletter to 10k Subscribers via Paid Ads
+
+[00:12] Matt McGarry: "If you are running a newsletter for a B2B audience, your cost per acquisition (CPA) is going to be significantly higher than a consumer newsletter, but your customer lifetime value (LTV) is massive."
+[01:45] "The number one mistake I see B2B SaaS companies making is using generic Meta lookalike audiences. Instead, you need to use custom list uploads of your target ICP (Ideal Customer Profile) pulled from tools like Apollo or LinkedIn Sales Navigator."
+[03:10] "Optimize your landing page for one thing only: an email input box. Remove the navigation bar. Remove the footer. A clean, minimal landing page should convert traffic at 40% to 50% minimum."
